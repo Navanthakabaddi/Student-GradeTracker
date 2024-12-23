@@ -1,4 +1,14 @@
 
+
+**NAVANTHAKRISHNAN.K**  
+**Company**: CODETECH IT SOLUTIONS  
+**Id**:CT08DS91  
+**Domain**: JAVA PROGRAMMING 
+**Duration**: NOV 30th 2024 to DEC 30th, 2024
+
+
+
+
 # Student Grade Calculator
 
 This is a simple Java program that calculates the grade of a student based on their marks in 6 subjects. The program prompts the user to input marks for each subject, computes the average, and assigns a grade based on predefined grading criteria.
